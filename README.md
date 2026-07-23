@@ -19,6 +19,8 @@ My goal is to build a strong understanding of cybersecurity fundamentals through
 
 - ✔️ Security Principles
 - ✔️ Linux Fundamentals
+- ✔️ Windows Fundamentals
+- ✔️ Command Line
 
 ---
 
@@ -145,6 +147,8 @@ This repository includes screenshots from completed TryHackMe rooms and practica
 |---------|--------|
 | Security Principles | ✅ Completed |
 | Linux Fundamentals | ✅ Completed |
+| Windows Fundamentals | ✅ Completed |
+| Command Line | ✅ Completed |
 | Networking Fundamentals | ⏳ In Progress |
 | Web Security | ⏳ Not Started |
 | Cryptography | ⏳ Not Started |
