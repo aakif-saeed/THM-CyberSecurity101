@@ -1,1 +1,153 @@
+# Windows & Active Directory Fundamentals + Command Line
 
+## 📖 Overview
+
+This repository contains my notes and hands-on exercises from the **Windows & Active Directory Fundamentals** and **Command Line** modules on TryHackMe.
+
+These modules provide the foundation for Windows administration, Active Directory environments, and Windows command-line usage—essential skills for SOC Analysts, Penetration Testers, and Blue Team professionals.
+
+---
+
+## 🎯 Learning Objectives
+
+- Understand the Windows operating system.
+- Learn Active Directory architecture and components.
+- Understand domains, domain controllers, users, groups, and OUs.
+- Learn how authentication works in Windows.
+- Navigate Windows using the Command Prompt.
+- Perform file, process, user, and network management using command-line tools.
+
+---
+
+## 📚 Topics Covered
+
+### Windows Fundamentals
+- Windows Architecture
+- File System
+- User Accounts
+- NTFS Permissions
+- Registry
+- Services
+- Task Manager
+- Event Viewer
+- Computer Management
+- System Information
+
+### Active Directory Fundamentals
+- Domains
+- Domain Controllers
+- Organizational Units (OUs)
+- Users & Groups
+- Group Policy (GPO)
+- Kerberos
+- LDAP
+- DNS
+- Authentication
+- Forests & Trees
+
+### Command Line
+- Directory Navigation
+- File & Folder Management
+- User Management
+- Process Management
+- Networking Commands
+- System Information
+- File Permissions
+- Environment Variables
+
+---
+
+## 💻 Commands Learned
+
+### Navigation
+
+```cmd
+cd
+dir
+mkdir
+rmdir
+tree
+```
+
+### File Management
+
+```cmd
+copy
+move
+ren
+del
+type
+echo
+```
+
+### Networking
+
+```cmd
+ipconfig
+ipconfig /all
+ping
+tracert
+nslookup
+netstat
+arp
+route
+```
+
+### System Information
+
+```cmd
+hostname
+whoami
+systeminfo
+tasklist
+taskkill
+driverquery
+```
+
+### User Management
+
+```cmd
+net user
+net localgroup
+```
+
+### Permissions
+
+```cmd
+attrib
+icacls
+```
+
+---
+
+## 🔑 Key Takeaways
+
+- Active Directory centralizes the management of users and computers.
+- Domain Controllers authenticate users and enforce security policies.
+- Group Policies help secure and manage Windows environments.
+- Command Prompt provides powerful administration capabilities.
+- Networking commands are essential for troubleshooting and security analysis.
+
+---
+
+## 🛠️ Skills Gained
+
+- Windows Administration
+- Active Directory Basics
+- Windows Networking
+- Command Prompt
+- User & Group Management
+- File System Navigation
+- Basic System Administration
+
+---
+
+## 📌 Platform
+
+- **TryHackMe**
+
+---
+
+## 🚀 Status
+
+✅ Completed
